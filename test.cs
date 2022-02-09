@@ -1,3 +1,5 @@
-public void OnStartup(){
-  Game.ShowChatMessage("it works.");
+static class Test{
+  public satic void Run(){
+    Game.ShowChatMessage("it works.");
+  }
 }
