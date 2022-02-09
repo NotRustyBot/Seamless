@@ -1,1 +1,1 @@
-test;https://github.com/NotRustyBot/Seamless/blob/master/test.md
+test;https://github.com/NotRustyBot/Seamless/blob/master/test.md#readme
