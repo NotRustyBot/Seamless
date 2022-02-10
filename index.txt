@@ -1,2 +1,3 @@
 test;https://github.com/NotRustyBot/Seamless/blob/master/docs/test.md#readme
 codespeed;https://github.com/NotRustyBot/Seamless/blob/master/docs/codespeed.md#readme
+fetch and change;https://github.com/NotRustyBot/Seamless/blob/master/docs/fethcandchange.md#readme
